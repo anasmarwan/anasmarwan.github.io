@@ -19,7 +19,7 @@ Since I love Maths and I'm studying Maths, I want to share the Maths I've been d
 
 ## Blog posts or Maths articles :grey_question:
 
-Hmmm... Very good question. I intend to write informally on my personal views related to the subject. So, I consider the entries as blog posts. I have no intention for the posts to imitate any of the lectures, because... that should be forbidden here, and also boring :eyes:. I don't have a name for this column yet. Shoul come up with one ASAP. Brb.
+Hmmm... Very good question. I intend to write informally on my personal views related to the subject. So, I consider the entries as blog posts. I have no intention for the posts to imitate any of the lectures, because... that should be forbidden here, and also boring :eyes:. I don't have a name for this column yet. Should come up with one ASAP. Brb.
 
 
 See you in my next post! :wave:
