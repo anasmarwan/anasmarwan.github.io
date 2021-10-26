@@ -19,7 +19,7 @@ Since I love Maths and I'm studying Maths, I want to share the Maths I've been d
 
 ## Blog posts or Maths articles :grey_question:
 
-Hmmm... Very good question. I have no intention to make the blog entries to be really formal, like a publishable standard one. Hence, they cannot be math articles. I wish to share my personal views on some mathematical concepts, in a much simpler or easier to understand by most people. I believe that most non-mathematicians have been wondering what mathematicians do. This is a legit question tho. Perhaps, through this blog, the readers will have some idea of the Mathematics beyond school maths.  
+Hmmm... Very good question. I intend to write informally on my personal views related to the subject. So, I consider the entries as blog posts. I have no intention for the posts to imitate any of the lectures, because... that should be forbidden here, and also boring :eyes:. I don't have a name for this column yet. Shoul come up with one ASAP. Brb.
 
 
 See you in my next post! :wave:
