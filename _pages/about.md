@@ -12,4 +12,4 @@ I am a third-year BSc Mathematics with Statistics students at [King's College Lo
 
 I am an Undergraduate Teaching Assistant (UGTA) at Department of Mathematics, KCL. My tasks include assisting first-year Maths undergraduates with their assignments, which cover a range of modules - Calculus I, Linear Algebra & Geometry I, Sequences & Series, and Introduction to Algebra. On top of that, I also volunteer to join [Rakan Tutor](https://rakantutor.org/) as an SPM Mathematics Tutor, to support underserved secondary school students in Malaysia.
 
-My academic interests lie in the field of Geometry and Topology. My music interests are dominated by K-Pop industries. You can reach out to me me [email](mailto:anas.ab_razak@gmail.com) or [Instagram](https://www.instagram.com/anasmarwan/) if you wish to talk more about my interests.
+My academic interests lie in the field of Geometry and Topology. My music interests are dominated by K-Pop industries. You can reach out to me me [email](mailto:anas.ab_razak@kcl.ac.uk) or [Instagram](https://www.instagram.com/anasmarwan/) if you wish to talk more about my interests.
