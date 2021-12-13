@@ -33,5 +33,5 @@ These are few notes I wrote during my years as undergraduate at King's
 
 
 
-[lag1]: "https://drive.google.com/file/d/1GhHhlO_HYWaM_TMpJppaVSmso5R6e1EG/view?usp=sharing"
-[mst]: "https://drive.google.com/file/d/1cwyvw_UMNK8q_eDxes4mFiAOuodzOQCP/view?usp=sharing"
+[lag1]: https://drive.google.com/file/d/1GhHhlO_HYWaM_TMpJppaVSmso5R6e1EG/view?usp=sharing
+[mst]: https://drive.google.com/file/d/1cwyvw_UMNK8q_eDxes4mFiAOuodzOQCP/view?usp=sharing
