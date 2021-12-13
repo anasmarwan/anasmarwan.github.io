@@ -8,7 +8,6 @@ tags:
   - miscellaneous
 
 ---
-
 ## Hello, World!
 
 Hi, everyone! My name is Anas. I'm Malaysian and I love Malaysian foods (miss them so much :persevere:). OK, that's not the whole point. I'm a Maths student at King's College and I love what I've been studying until today (still look forward to studying more Maths though). How about you guys?
