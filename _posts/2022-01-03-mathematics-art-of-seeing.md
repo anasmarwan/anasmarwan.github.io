@@ -38,7 +38,7 @@ What I will give you here is only one art of seeing things. They are a few other
 > 1. Combination of categories is also considered as a category
 > 2. The intersection of two or more categories forms a new category
 
-Let's jump to our primer example, Netflix.
+Let's jump to our primary example, Netflix.
 
 **Case 1: Categorized by genres**
 
