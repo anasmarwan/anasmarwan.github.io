@@ -14,7 +14,7 @@ Education
 * BSc in Mathematics with Statistics, King's College London, UK, 2022 (Expected)
 * IB Diploma Programme, Kolej MARA Banting, Malaysia, 2019 
 
-Experiences
+Experience
 ======
 * Peer Assisted Study Support (PASS) Tutor, Department of Mathematics, King's College London, September 2021 - December 2021.
 * SPM Mathematics Tutor, Rakan Tutor, Remote, August 2021 - December 2021. 
